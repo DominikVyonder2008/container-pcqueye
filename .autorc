@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "DominikVyonder2008",
+  "repo": "container-pcqueye",
+  "name": "DominikVyonder2008",
+  "email": "dominikmlira08@gmail.com",
+}
